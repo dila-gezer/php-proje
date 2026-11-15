@@ -1,0 +1,19 @@
+EKRAN GÖRÜNTÜLERİ ALMA REHBERİ (Ödev Teslim Zorunluluğu)
+============================================================
+Ödev yönergesinin 10. maddesi gereğince teslim ZIP dosyasına en az 3 adet
+ekran görüntüsü eklenmelidir. Windows'ta ekran görüntüsü almak için 
+"Windows Tuşu + Shift + S" kısayolunu kullanabilirsiniz.
+
+Gereken Ekran Görüntüleri:
+------------------------------------------------------------
+1. 01_ana_sayfa_ve_listeleme.png
+   - baslat.bat dosyasına çift tıklayıp http://localhost:8000 adresini açın.
+   - Sayfanın üstündeki sayaç kartları ve aşağıdaki görev tablosu görünecek şekilde ekran görüntüsü alıp buraya kaydedin.
+
+2. 02_yeni_kayit_ekleme.png
+   - "+ Yeni Görev Ekle" butonuna tıklayın.
+   - Formu doldururken (veya boş bırakıp kaydet diyerek hata mesajı çıktığında) ekran görüntüsü alıp buraya kaydedin.
+
+3. 03_filtreleme_ve_silme.png
+   - Ana sayfada bir ders seçip "Filtrele" butonuna basın.
+   - Ardından bir görevin yanındaki "Sil" butonuna tıklayıp tarayıcının "Bu görevi silmek istediğinize emin misiniz?" onay penceresi çıktığında ekran görüntüsü alıp buraya kaydedin.
