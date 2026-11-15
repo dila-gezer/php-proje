@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "ad_soyad": "Demo Öğrenci",
+        "eposta": "ogrenci@edutask.com",
+        "bolum": "Bilgisayar Programcılığı",
+        "sifre_hash": "$2y$10$a7W3BBzn23uWZEHZktL72OnGdaYKkt1.RiFT2357\/K5z6DFGSIhvy",
+        "kayit_tarih": "2026-11-08"
+    },
+    {
+        "id": 2,
+        "ad_soyad": "Fatih Koca",
+        "eposta": "koca54312@gmail.com",
+        "bolum": "Bilgisayar Programcılığı",
+        "sifre_hash": "$2y$10$LKuKcS9S26RKhFTzIRDb2uU0EtyWJlH571iwdYdbbiw45C9AdK1.O",
+        "kayit_tarih": "2026-11-08"
+    },
+    {
+        "id": 3,
+        "ad_soyad": "Fatih Koca",
+        "eposta": "koca5431@gmail.com",
+        "bolum": "Bilgisayar Programcılığı",
+        "sifre_hash": "$2y$10$5a1xviN.YPTKrIZiXY2J.u7SLlxeT4JQLkjFH906p93OiWVGwfUVm",
+        "kayit_tarih": "2026-11-10"
+    },
+    {
+        "id": 4,
+        "ad_soyad": "Fatih Koca",
+        "eposta": "fatihkca70@gmail.com",
+        "bolum": "Bilgisayar Programcılığı",
+        "sifre_hash": "$2y$10$nZBJU4gfz8m4JcC2GE1eK.Z5tWmKAu95o8xEbnh3rIdEjrg7fV3h2",
+        "kayit_tarih": "2026-11-13"
+    },
+    {
+        "id": 5,
+        "ad_soyad": "emin kaya",
+        "eposta": "fatihkca@gmail.com",
+        "bolum": "Bilgisayar Programcılığı",
+        "sifre_hash": "$2y$10$aXJnAH9IF69C77t1L.NJ3eEguOtMMi0dc4pdkEQGohwN8U5EUC9CG",
+        "kayit_tarih": "2026-11-13"
+    }
+]

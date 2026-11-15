@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "baslik": "PHP 3 Haftalık Proje Ödevi",
+        "kategori": "İnternet Programcılığı I",
+        "oncelik": "Yüksek",
+        "durum": "Devam Ediyor",
+        "teslim_tarihi": "2026-11-08",
+        "aciklama": "Kayıt ve takip sistemi ilk sürümünün (MVP) hazırlanması, form ve oturum testleri."
+    },
+    {
+        "id": 2,
+        "baslik": "Veritabanı Normalizasyon Raporu",
+        "kategori": "Veritabanı Yönetimi",
+        "oncelik": "Orta",
+        "durum": "Tamamlandı",
+        "teslim_tarihi": "2026-11-12",
+        "aciklama": "3NF ve BCNF kurallarına göre örnek kütüphane şemasının çözümlenmesi ve raporlanması."
+    },
+    {
+        "id": 3,
+        "baslik": "Algoritma Karmaşıklığı Analizi (Big-O)",
+        "kategori": "Veri Yapıları",
+        "oncelik": "Düşük",
+        "durum": "Tamamlandı",
+        "teslim_tarihi": "2026-10-25",
+        "aciklama": "Arama ve sıralama algoritmalarının zaman ve bellek karmaşıklığı tablosu çıkarıldı."
+    },
+    {
+        "id": 4,
+        "baslik": "Responsive Portfolyo Web Sitesi",
+        "kategori": "Web Tasarımı",
+        "oncelik": "Orta",
+        "durum": "Tamamlandı",
+        "teslim_tarihi": "2026-10-28",
+        "aciklama": "CSS Flexbox ve CSS Grid kullanılarak mobil uyumlu kişisel tanıtım sitesi yapıldı."
+    },
+    {
+        "id": 5,
+        "baslik": "Yapay Zekâ Proje Fikri Sunumu",
+        "kategori": "Yapay Zekâya Giriş",
+        "oncelik": "Yüksek",
+        "durum": "Devam Ediyor",
+        "teslim_tarihi": "2026-11-15",
+        "aciklama": "Görüntü işleme tabanlı plaka tanıma sistemi üzerine 10 slaytlık hazırlık sunumu."
+    },
+    {
+        "id": 6,
+        "baslik": "İngilizce Teknik Makale Özeti",
+        "kategori": "Mesleki Yabancı Dil",
+        "oncelik": "Düşük",
+        "durum": "Devam Ediyor",
+        "teslim_tarihi": "2026-11-20",
+        "aciklama": "Cloud computing (Bulut bilişim) üzerine IEEE makalesinin 2 sayfalık Türkçe özeti."
+    }
+]
